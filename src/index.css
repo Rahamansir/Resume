@@ -27,11 +27,16 @@ nav{
   grid-template-columns: 1fr 1fr 1fr;
   flex-direction: column;
   margin-top: 10px;
+  text-align: center;
+  list-style-type: none;
+  
 }
 
 .one,.two,.three{
 border: 2px solid;
 text-align: center;
+list-style-type: none;
+
 }
 
 .footer{
